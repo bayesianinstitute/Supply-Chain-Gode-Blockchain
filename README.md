@@ -93,14 +93,14 @@ Overall, this smart contract provides a way to track the various stages of a pha
 1. After Clicking on add network u will get interface
    to add network name,rcp url,chain id put same as shown in the image below and click on Add or Save.
 
-   ![https://raw.githubusercontent.com/faizack619/Private/main/network.PNG?token=GHSAT0AAAAAAB52SPASWBHPYAJVCLZAVRCQY7OQ4EA](https://raw.githubusercontent.com/faizack619/Private/main/network.PNG?token=GHSAT0AAAAAAB52SPASWBHPYAJVCLZAVRCQY7OQ4EA)
+   ![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/network.PNG](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/network.PNG)
 
 
- 4. In MetaMask, click on the account icon in the top-right corner, select create account, and name as Raw Material Supplier and  Click "Create".
+ 2. In MetaMask, click on the account icon in the top-right corner, select create account, and name as Raw Material Supplier and  Click "Create".
 
    ![https://miro.medium.com/max/1400/1*27K5fr7h56To9Z2JVObrHA.png](https://miro.medium.com/max/1400/1*27K5fr7h56To9Z2JVObrHA.png)
    
- 4. Add All participate(Raw Material,Supplier,Manufacture,Retail). by following above Step.
+ 3. Add All participate(Raw Material,Supplier,Manufacture,Retail). by following above Step.
   
 ### Step 3.
 ## Compile & Deploy Smart Contract. 
