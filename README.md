@@ -129,7 +129,7 @@ Overall, this smart contract provides a way to track the various stages of a pha
    
     * After Compile We Need To Deploy our Smart Contract on Blockchain.In Our Case We are Deploying on Gode testnet  Which is testnet blockchain for development, used to test and develop Smart Contracts.
    
-   ![https://raw.githubusercontent.com/faizack619/Private/main/Capture.PNG?token=GHSAT0AAAAAAB52SPAS4CZOJQVJDITL6KVYY7OP5ZA](https://raw.githubusercontent.com/faizack619/Private/main/Capture.PNG?token=GHSAT0AAAAAAB52SPAS4CZOJQVJDITL6KVYY7OP5ZA)
+   ![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Capture.PNG](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Capture.PNG)
 
 
     * We need to install HDWallet run this command in `npm install @truffle/hdwallet-provider`
@@ -137,7 +137,7 @@ Overall, this smart contract provides a way to track the various stages of a pha
     * As you can see we have testnet which has network id : 5566 which identity gode testnet id.
   
     * `truffle migrate --network testnet` Command Will deploye Smart Contract to Gode Blockchain.
-     ![https://raw.githubusercontent.com/faizack619/Private/main/deploying%20detail.PNG?token=GHSAT0AAAAAAB52SPATBMTNLJ7LZEKZ5GCOY7OQPLA](https://raw.githubusercontent.com/faizack619/Private/main/deploying%20detail.PNG?token=GHSAT0AAAAAAB52SPATBMTNLJ7LZEKZ5GCOY7OQPLA)
+     ![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/deploying%20detail.PNG](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/deploying%20detail.PNG)
     * It will take some time For deployment and u will able find transaction hash,contract address and many more.
 
 ### Step 4.
