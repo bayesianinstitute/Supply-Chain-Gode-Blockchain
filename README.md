@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/logo.png" width="200"></a>
+  <a><img src="https://www.mdpi.com/logistics/logistics-03-00005/article_deploy/html/images/logistics-03-00005-g001.png" width="200"></a>
   <br>  
   Supply-Chain-Dapp
   <br>
@@ -9,7 +9,7 @@
 <p align="center">
   
   <a href="https://github.com/trufflesuite/ganache-cli">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/ganachetrans.png" width="90">
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgodechain.com%2Ftemplate%2Fen%2Fimages%2FG.svg&imgrefurl=https%3A%2F%2Fgodechain.com%2F&tbnid=mZbZGktub0ZlpM&vet=12ahUKEwjZnqO8gZv9AhWSj9gFHTOACHYQMygBegQIARB6..i&docid=H0SKQ41Ey2rSKM&w=1500&h=1500&q=gode%20chain%20blockchain&ved=2ahUKEwjZnqO8gZv9AhWSj9gFHTOACHYQMygBegQIARB6" width="90">
   </a>
   <a href="https://soliditylang.org/">
     <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/Solidity.svg" width="80">       
