@@ -54,7 +54,7 @@ The smart contract is being written with Solidity which is then compiled, migrat
 
 ## Smart Contract Working Flow
 
-![https://raw.githubusercontent.com/faizack619/Private/main/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPATHCBCMLE3SZU5RNF6Y7ORHKQ](https://raw.githubusercontent.com/faizack619/Private/main/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPATHCBCMLE3SZU5RNF6Y7ORHKQ)
+![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPAT5YHI3AALNPFXL27AY7OU3IQ](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png?token=GHSAT0AAAAAAB52SPAT5YHI3AALNPFXL27AY7OU3IQ)
 
 This is a SupplyChain smart contract written in Solidity. The contract models the various roles and stages involved in the supply chain of a pharmaceutical product.
 
