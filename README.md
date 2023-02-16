@@ -9,7 +9,7 @@
 <p align="center">
   
   <a href="https://docs.godechain.com/welcome/">
-    <img src="https://s3.coinmarketcap.com/static-gravity/thumbnail/medium/12b1f4d9727b4aab83cd5398bf6e080d.jpg" width="90">
+    <img src="https://s3.coinmarketcap.com/static-gravity/thumbnail/medium/12b1f4d9727b4aab83cd5398bf6e080d.jpg" width="30" height='30'>
   </a>
   <a href="https://soliditylang.org/">
     <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/Solidity.svg" width="80">       
@@ -43,7 +43,7 @@ Also it leads to an increase in the transparency and helps to build an efficient
 ## Architecture
 The smart contract is being written with Solidity which is then compiled, migrated and deployed using Truffle.js on the Gode Testnet blockchain network.The frontend uses Web3.js to communicate with the smart contract and Gode Testnet blockchain network and Meta Musk Wallet is connect to Gode Test Network to do Transaction between each component in Supply .
 ****
-![https://raw.githubusercontent.com/faizack619/Private/main/Blank%20diagram.png?token=GHSAT0AAAAAAB52SPATQW22W7USPYOXOEJGY7OUFIQ](https://raw.githubusercontent.com/faizack619/Private/main/Blank%20diagram.png?token=GHSAT0AAAAAAB52SPATQW22W7USPYOXOEJGY7OUFIQ)
+![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/Supply%20Chain%20Design%20(1).png)
 
 ## Supply Chain Flow
 
