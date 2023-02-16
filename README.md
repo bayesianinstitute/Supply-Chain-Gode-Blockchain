@@ -9,7 +9,7 @@
 <p align="center">
   
   <a href="https://docs.godechain.com/welcome/">
-    <img src="https://s3.coinmarketcap.com/static-gravity/thumbnail/medium/12b1f4d9727b4aab83cd5398bf6e080d.jpg" width="30" height='30'>
+    <img src="https://s3.coinmarketcap.com/static-gravity/thumbnail/medium/12b1f4d9727b4aab83cd5398bf6e080d.jpg" width="35" height='35'>
   </a>
   <a href="https://soliditylang.org/">
     <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/Solidity.svg" width="80">       
