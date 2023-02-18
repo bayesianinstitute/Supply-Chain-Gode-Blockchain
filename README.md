@@ -95,18 +95,16 @@ Overall, this smart contract provides a way to track the various stages of a pha
 
    ![https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/network.PNG](https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/network.PNG)
 
-
- 2. In MetaMask, click on the account icon in the top-right corner, select create account, and name as Raw Material Supplier and  Click "Create".
-
-   ![https://miro.medium.com/max/1400/1*27K5fr7h56To9Z2JVObrHA.png](https://miro.medium.com/max/1400/1*27K5fr7h56To9Z2JVObrHA.png)
+ 2. Select Gode Network in the Network Drop-Down.
+ 
    
- 3. Add All participate(Raw Material,Supplier,Manufacture,Retail). by following above Step.
+ 
   
 ### Step 3.
 ## Compile & Deploy Smart Contract. 
 
 * Open VScode and open VScode Terimal by Ctrl + ' .
-* **Clone Project** Type the following command and press Enter : git clone : ` https://github.com/faizack619/Supply-Chain-Gode-Blockchain.git  
+* **Clone Project** Type the following command and press Enter : git clone : ` https://github.com/faizack619/Supply-Chain-Blockchain.git  
 * **Install truffle** : Type the following command and press Enter: `npm install -g truffle`
 * **Install dependencies** : Type the following command and press Enter: `npm i`
 * **File structure for  DApp** : 
@@ -124,6 +122,9 @@ Overall, this smart contract provides a way to track the various stages of a pha
     **package-lock.json**: This file is generated automatically and contains the exact version of each dependency used in the project.
 
     **Client**s: This Folder contains the client-side code, typically HTML, CSS, and JavaScript, can be organized into a client folder.
+
+* **Mnemonic** :  it requires mnemonic to be passed in for Provider, this is the seed phrase for the account you'd like to deploy from. Create a new .secret file in root directory and enter your 12 word mnemonic seed phrase to get started. To get the seedwords from metamask wallet you can go to Metamask Settings, then from the menu choose Security and Privacy where you will see a button that says reveal seed words, refer [here](https://metamask.zendesk.com/hc/en-us/articles/360015290032-How-to-reveal-your-Secret-Recovery-Phrase) for more details.
+  
 * **Compile the smart contract** :  In the terminal, use the following command to compile the smart contract: `truffle compile` 
 * **Configuring Truffle for GODE** :
    
@@ -160,7 +161,13 @@ Overall, this smart contract provides a way to track the various stages of a pha
 
 * The app gets hosted by default at port 3000.
 
+### Step 5.
+## Setup Account for Supply Chain Player. 
+1. Go to MetaMask, click on the account icon in the top-right corner, select create account, and name as Raw Material Supplier and  Click "Create".
 
+   ![https://miro.medium.com/max/1400/1*27K5fr7h56To9Z2JVObrHA.png](https://miro.medium.com/max/1400/1*27K5fr7h56To9Z2JVObrHA.png)
+   
+2. Add All participate(Raw Material,Supplier,Manufacture,Retail). by following above Step.
 
 ### License
 This project uses an [MIT](https://opensource.org/licenses/MIT) license.
