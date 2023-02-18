@@ -97,6 +97,11 @@ Overall, this smart contract provides a way to track the various stages of a pha
 
  2. Select Gode Network in the Network Drop-Down.
  
+ 3. Click on account address to copy and paste your address in this url : https://tool.godechain.net/faucet/ click on sent me 
+  ![image]
+ (https://raw.githubusercontent.com/faizack619/Supply-Chain-Gode-Blockchain/master/client/public/get%20gode.PNG))
+ 4. Now You Will get the 1 gode on your account and check in meta musk wallet.
+ 
    
  
   
