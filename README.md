@@ -134,7 +134,7 @@ Overall, this smart contract provides a way to track the various stages of a pha
 
 
     * We need to install HDWallet run this command in `npm install @truffle/hdwallet-provider`
-    * It requires mnemonic to be passed in for Provider, this is the seed phrase for the account you'd like to deploy from. Create a new .secret file in root directory and enter your 12 word mnemonic seed phrase to get started. To get the seedwords from metamask wallet you can go to Metamask Settings, then from the menu choose Security and Privacy where you will see a button that says reveal seed words, refer [here](https://metamask.zendesk.com/hc/en-us/articles/360015290032-How-to-reveal-your-Secret-Recovery-Phrase) for more details.
+  
     * As you can see we have testnet which has network id : 5566 which identity gode testnet id.
   
     * `truffle migrate --network testnet` Command Will deploye Smart Contract to Gode Blockchain.
@@ -168,6 +168,8 @@ Overall, this smart contract provides a way to track the various stages of a pha
    ![https://miro.medium.com/max/1400/1*27K5fr7h56To9Z2JVObrHA.png](https://miro.medium.com/max/1400/1*27K5fr7h56To9Z2JVObrHA.png)
    
 2. Add All participate(Raw Material,Supplier,Manufacture,Retail). by following above Step.
+
+
 
 ### License
 This project uses an [MIT](https://opensource.org/licenses/MIT) license.
