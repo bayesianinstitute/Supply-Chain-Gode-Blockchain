@@ -175,6 +175,8 @@ Overall, this smart contract provides a way to track the various stages of a pha
    
 2. Add All participate(Raw Material,Supplier,Manufacture,Retail). by following above Step.
 
+3. Get Gode for Each Player from this url  https://tool.godechain.net/faucet/  .In Order to do Transaction.
+
 
 
 ### License
